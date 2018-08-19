@@ -1,0 +1,75 @@
+.name
+{
+	width:50%;
+	background-color:white;
+	
+	padding:10px;
+	color:black;
+}
+.name1
+{
+	width:50%;
+	background-color:white;
+	
+	padding:10px;
+	color:black;
+}
+#sign
+{
+	width:50%;
+	margin: auto;
+	text-align:center;
+	padding-top:-20px;
+	
+}
+#login
+{
+	width:50%;
+	margin:auto;
+	text-align:center;
+	padding-top: 10px;
+}
+#login a
+{
+	text-decoration:none;
+	color:black;
+}
+#login a:hover{
+	text-decoration:underline;
+}
+.text
+{
+	width:40%;
+	background-color:rgba(38, 71, 163, 1);
+	border:none;
+	padding:10px;
+	color:#FFFFFF;
+}
+.text:hover
+{
+	 background-color:#151558;
+    color: white;
+}
+button
+{
+	background-color:#3b5998;
+	border:none;
+	padding:15px;
+	color:white;
+	width:50%;
+	font-size:14px;
+	    font-family: Helvetica;
+		cursor: pointer ;
+}
+.g
+{
+		background-color:#e53935;
+		border:none;
+	padding:15px;
+	color:white;
+	width:50%;
+	font-size:14px;
+	    font-family: Helvetica;
+		cursor: pointer ;
+
+}
